@@ -5,7 +5,7 @@ edition = "2024"
 rust-version = "1.85"
 license = "MIT"
 description = "Better Uptime heartbeat monitoring client for Rust services"
-repository = "https://github.com/thunderwind-net/rust-betteruptime-heartbeat"
+repository = "https://github.com/thunderwind-io/rust-betteruptime-heartbeat"
 keywords = ["monitoring", "heartbeat", "betteruptime", "uptime"]
 categories = ["network-programming"]
 

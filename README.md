@@ -18,7 +18,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-betteruptime-heartbeat = { git = "https://github.com/thunderwind-net/rust-betteruptime-heartbeat" }
+betteruptime-heartbeat = { git = "https://github.com/thunderwind-io/rust-betteruptime-heartbeat" }
 ```
 
 ## Usage
@@ -105,6 +105,6 @@ MIT
 
 ## Contributing
 
-This crate is part of the [Thunderwind](https://github.com/thunderwind-net) confidential computing platform.
+This crate is part of the [Thunderwind](https://github.com/thunderwind-io) confidential computing platform.
 
-Issues and pull requests are welcome at the [GitHub repository](https://github.com/thunderwind-net/rust-betteruptime-heartbeat).
+Issues and pull requests are welcome at the [GitHub repository](https://github.com/thunderwind-io/rust-betteruptime-heartbeat).
